@@ -14,8 +14,8 @@ const char* password = "159ad157OK20coal";
 WiFiClient client;
 
 
-#define emailSenderAccount    "esp32.omer.atila@gmail.com"
-#define emailSenderPassword   "159ad157"
+#define emailSenderAccount    "<email>"
+#define emailSenderPassword   "<password>"
 #define smtpServer            "smtp.gmail.com"
 #define smtpServerPort        465
 #define emailSubject          "[ALERT] ESP32 "
